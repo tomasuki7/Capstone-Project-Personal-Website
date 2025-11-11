@@ -1,0 +1,61 @@
+* {
+    margin: 0
+}
+
+body{
+    background-color: #644221;
+}
+.pic {
+    border-radius: 50%;
+}
+
+.heading {
+    background: #777C6D;
+}
+heading-container {
+    width: 7em;
+    height: 7em;
+    margin-top: 0 0;
+    
+}
+.main {
+    background-color: #CBCBCB;
+
+}
+
+.footer {
+    background-color: #EEEEEE;
+}
+
+/* p, h5 {
+    margin: 0;
+    border: 0;
+} */
+.skills-text {
+    text-align: center;
+}
+
+ul{
+    display: block;
+    list-style-type: none;    
+    padding-right: 27px;
+    margin-top: -100px;
+}
+
+.footer {
+    /* position: fixed; */
+    margin-top: -25px;
+    margin-bottom: -25px;
+}
+
+.text-footer{
+    text-align: center;
+}
+
+.career{
+    margin-top: -46px;
+}
+
+img {
+    margin-bottom: 0px !important;
+}
